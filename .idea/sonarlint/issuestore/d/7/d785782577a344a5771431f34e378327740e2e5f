@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8‰áÓ¶2
+`
+java:S3518"CMake sure this expression can't be zero before doing this division.(š¨ï8Œİ¶2
+G	java:S106"+Replace this use of System.out by a logger.(ùÔ¼8™áÓ¶2
+R
+java:S2209"5Change this instance-reference to a static reference.(ùÔ¼8™áÓ¶2
+L	java:S106"+Replace this use of System.out by a logger.(­ŒÇîÿÿÿÿÿ8İ¡à¶2
+L	java:S106"+Replace this use of System.out by a logger.(ÿºÙÚøÿÿÿÿ8İ¡à¶2
+G	java:S106"+Replace this use of System.out by a logger.(µÉÄ‰8İ¡à¶2
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ8ÁÇÔ¶2

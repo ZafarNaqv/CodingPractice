@@ -1,0 +1,9 @@
+
+y	java:S127!"XRefactor the code in order to not assign to this loop counter from within the loop body.(€ØĞ•üÿÿÿÿ8¡ãÛã2
+7
+java:S1220""Move this file to a named package.8õ˜½ã2
+
+java:S4165 "bRemove this useless assignment; "nums" already holds the assigned value along all execution paths.(‘Ç”á8¬€Ùã2
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8™½ã2
+]	java:S125"<This block of commented-out lines of code should be removed.(Œú¹Ìøÿÿÿÿ8™½ã2
+F	java:S106"+Replace this use of System.out by a logger.(ü²¥N8™½ã2

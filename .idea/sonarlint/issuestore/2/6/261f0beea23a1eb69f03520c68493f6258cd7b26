@@ -1,0 +1,12 @@
+
+L
+java:S1066>"/Merge this if statement with the enclosing one.(¶“μ€8διθ«Ε2
+7
+java:S1220""Move this file to a named package.8ειθ«Ε2
+G	java:S106"+Replace this use of System.out by a logger.(Αªψ8ςιθ«Ε2
+L	java:S106"+Replace this use of System.out by a logger.(ΆΟΊΏϊÿÿÿÿ8ςιθ«Ε2
+U
+java:S1172/"3Remove these unused method parameters "n", "edges".(Ι¥ωΠώÿÿÿÿ8υιθ«Ε2
+W	java:S1251"<This block of commented-out lines of code should be removed.(Ϋ±”8υιθ«Ε2
+G	java:S1066"+Replace this use of System.out by a logger.(τ­™γ8υιθ«Ε2
+G	java:S106N"+Replace this use of System.out by a logger.(τ­™γ8χιθ«Ε2

@@ -1,0 +1,17 @@
+
+7
+java:S1220""Move this file to a named package.8¸¼Ä¸2
+S
+java:S1854"6Remove this useless assignment to local variable "in".(äÆ¾Ó8»¼Ä¸2
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8¼¼Ä¸2
+D
+java:S1481"'Remove this unused "in" local variable.(äÆ¾Ó8¾¼Ä¸2
+o
+java:S6204
+"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8àöÅ¸2
+]	java:S125"<This block of commented-out lines of code should be removed.(¹â–Ùúÿÿÿÿ8©Æ¸2
+X	java:S125"<This block of commented-out lines of code should be removed.( Ø·¦8©ºÇ¸2
+L	java:S106"+Replace this use of System.out by a logger.(™ÇãÑıÿÿÿÿ8ù¼Ä¸2
+[
+java:S2121"9Remove this "substring" call; it has predictable results.(™ÇãÑıÿÿÿÿ8£‹Ç¸2

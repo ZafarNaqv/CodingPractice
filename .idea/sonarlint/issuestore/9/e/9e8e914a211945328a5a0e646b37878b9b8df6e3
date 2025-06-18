@@ -1,0 +1,12 @@
+
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÁÏŒşÿÿÿÿ8Ú¶Ÿ°Å2
+7
+java:S1220""Move this file to a named package.8Û¶Ÿ°Å2
+G	java:S106*"+Replace this use of System.out by a logger.(˜ÈÁ™8í¶Ÿ°Å2
+F	java:S106+"+Replace this use of System.out by a logger.(¯âãR8í¶Ÿ°Å2
+U
+java:S1172."3Remove these unused method parameters "n", "edges".(É¥ùĞşÿÿÿÿ8í¶Ÿ°Å2
+]	java:S1250"<This block of commented-out lines of code should be removed.(’ß°€øÿÿÿÿ8Öæ£°Å2
+G	java:S1069"+Replace this use of System.out by a logger.(¹ºÓÇ8ï¶Ÿ°Å2
+G	java:S106I"+Replace this use of System.out by a logger.(ô­™ã8•‡¥°Å2
