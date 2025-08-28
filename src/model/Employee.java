@@ -44,7 +44,14 @@ public class Employee {
         employees.add(Hasan);
         employees.add(kubra);
         employees.add(ali);
-        System.out.println(getByDepartment(employees) );
+        // System.out.println(getByDepartment(employees) );
+        
+        RetiredEmployee retiredEmployee = new RetiredEmployee("Horn",EDepartment.HR,150000,3);
+        employees.add(retiredEmployee);
+        
+        List<RetiredEmployee> retiredEmployees = new ArrayList<>();
+        retiredEmployees.add(retiredEmployee);
+      //  printEmployeeNoGeneric(retiredEmployees);
         
     }
     
